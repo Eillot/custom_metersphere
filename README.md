@@ -1,5 +1,5 @@
 # custom_metersphere
-# 基于metersphere 框架二次开发
+# 基于MeterSphere框架企业级定制化开发项目
 
 # 项目演示效果详见：某手、某音【戴夫的IT私房菜】
 
